@@ -17,9 +17,11 @@ Creates a dataset on the following criteria
 
 This will shell a notebook that requries API keys etc to build data as CSV file.
 
-### Dataset builder
-Will retrieve information from associated APIs. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elibtronic/green_oa_compiler/blob/main/Green_OA_Compiler.ipynb)
+### Dataset ORCID DOI Step
+Will retrieve information from associated CrossRef and ORCID. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elibtronic/green_oa_compiler/blob/main/Green_OA_Compiler.ipynb)
 
-### Dataset analysis
-Opens the CSV file generated in the first part and finds out some stuff. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elibtronic/green_oa_compiler/blob/main/Green_OA_Dataset_Analysis.ipynb)
- 
+### Dataset Policy Finder Step
+Opens the CSV file generated in the first part and retrieves information from PolicyFinder API [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elibtronic/green_oa_compiler/blob/main/Green_OA_Dataset_Policy_Finder_Data.ipynb)
+
+### Dataset Explore
+Pulls in final completed version of data in order to make sense of it. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elibtronic/green_oa_compiler/blob/main/Green_OA_Dataset_Analysis.ipynb)
