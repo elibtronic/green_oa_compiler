@@ -17,4 +17,4 @@ Creates a dataset on the following criteria
 Does all the work of constructing dataset according to parameters and saving as CSV file suitable for step 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elibtronic/green_oa_compiler/blob/main/Green_OA_Dataset_Builder_Complete.ipynb)
 
 ### Dataset Explore
-Pulls in final completed version of data CSV in order to make sense of it. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elibtronic/green_oa_compiler/blob/main/Green_OA_Dataset_Analysis.ipynb)
+Pulls in final completed version of data CSV in order to make sense of it. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elibtronic/green_oa_compiler/blob/main/Green_OA_Analysis.ipynb)
